@@ -1,4 +1,4 @@
-Time Instance,Trustor,Trustee,Pack_f,Pack_d,Pack_f Count,Pack_d Count,pdr,Frd1,CoI_id
+Time Instance,src,dst,Pack_f,Pack_d,Pack_f Count,Pack_d Count,pdr,Frd1,CoI_id
 1,6,1,0,1,0,1,0,0,1
 2,3,1,0,1,0,1,0,0,1
 2,3,1,0,1,0,2,0,0,1
