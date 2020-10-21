@@ -1,4 +1,4 @@
-Time Instance,src,dst,Pack_f,Pack_d,Pack_f Count,Pack_d Count,pdr,Frd1,CoI_id
+time instance,src,dst,pack_f,pack_d,pack_f count,pack_d count,pdr,frds,coI_id
 1,6,1,0,1,0,1,0,0,1
 2,3,1,0,1,0,1,0,0,1
 2,3,1,0,1,0,2,0,0,1
