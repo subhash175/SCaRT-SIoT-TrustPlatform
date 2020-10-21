@@ -16,7 +16,7 @@ dst: Destination id as Trustee
 
 pack_f: Packet forwarded. 0->Not Forwarded, 1-> Forwarded
 
-pack_d: Packet dropped. 0->Not Not Dropped, 1-> Dropped
+pack_d: Packet dropped. 0->Not Dropped, 1-> Dropped
 
 pack_f Count: Number of packets forwarded at a given time instance betweeen a trustor and trustee
 
