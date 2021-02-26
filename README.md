@@ -23,9 +23,9 @@ csv: Time;trustor;trustee;pack_f;pack_d;pdr;frds;coi;
 
 Time instance: Each time instance is the 5 seconds interval
 
-src: Source id as Trustor
+trustor: Source id as Trustor
 
-dst: Destination id as Trustee
+trustee: Destination id as Trustee
 
 pack_f: Packet forwarded. 0->Not Forwarded, 1-> Forwarded
 
