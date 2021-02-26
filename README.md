@@ -6,7 +6,7 @@ The current dataset is the sample dataset, we will update the full dataset soon.
 
 This data set contains following columns as feature. 
 
-csv: Time_instances;src;dst;pack_f;pack_d;pack_f Count;pack_d Count;pdr;frds;coi_id;
+csv: Time;trustor;trustee;pack_f;pack_d;pdr;frds;coi;
 
 Time instance: Each time instance is the 5 seconds interval
 
